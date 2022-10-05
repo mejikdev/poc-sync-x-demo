@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Mildrid Chapling",
+    "title": "Technical Writer",
+    "department": "Research and Development",
+    "salary": 802099,
+    "dateOfHired": "2022-06-29"
+  },
+  {
+    "name": "Waylen Truin",
+    "title": "VP Product Management",
+    "department": "Legal",
+    "salary": 808515,
+    "dateOfHired": "2021-09-07"
+  },
+  {
+    "name": "Josefina Joice",
+    "title": "Assistant Media Planner",
+    "department": "Product Management",
+    "salary": 286250,
+    "dateOfHired": "2020-09-13"
+  },
+  {
+    "name": "Warren Meiklejohn",
+    "title": "Senior Editor",
+    "department": "Sales",
+    "salary": 480607,
+    "dateOfHired": "2022-02-14"
+  },
+  {
+    "name": "Doll Watting",
+    "title": "Staff Accountant II",
+    "department": "Product Management",
+    "salary": 671411,
+    "dateOfHired": "2022-05-14"
+  },
+  {
+    "name": "Boonie Oldcote",
+    "title": "Compensation Analyst",
+    "department": "Research and Development",
+    "salary": 958511,
+    "dateOfHired": "2021-09-21"
+  },
+  {
+    "name": "Hansiain Mantripp",
+    "title": "Senior Editor",
+    "department": "Marketing",
+    "salary": 128115,
+    "dateOfHired": "2021-09-11"
+  },
+  {
+    "name": "Cordie Kleimt",
+    "title": "Research Associate",
+    "department": "Business Development",
+    "salary": 755906,
+    "dateOfHired": "2020-07-01"
+  },
+  {
+    "name": "Nara Eastgate",
+    "title": "VP Sales",
+    "department": "Engineering",
+    "salary": 7732,
+    "dateOfHired": "2020-12-26"
+  },
+  {
+    "name": "Mae Setterfield",
+    "title": "Programmer III",
+    "department": "Business Development",
+    "salary": 908824,
+    "dateOfHired": "2020-07-02"
+  }
+]

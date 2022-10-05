@@ -1,0 +1,29 @@
+{
+  "name": "poc-sync-x-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.8",
+    "@mui/x-data-grid": "^5.17.5",
+    "@tanstack/react-query": "^4.10.1",
+    "axios": "^1.0.0",
+    "cookie": "^0.5.0",
+    "microgen-v3-sdk": "^0.8.12",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.36.1"
+  },
+  "devDependencies": {
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
