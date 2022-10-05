@@ -50,6 +50,8 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 
 COPY --from=builder --chown=nextjs:nodejs /app/.env ./.env
 
+COPY --from=builder --chown=nextjs:nodejs /app/public ./public
+
 EXPOSE 3000
 
 CMD [ "npm", "start" ]
