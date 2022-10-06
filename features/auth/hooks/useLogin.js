@@ -14,6 +14,8 @@ export const useLogin = () => {
     async (data) => {
       try {
         const result = await mutateAsync(data);
+
+        console.log(result);
         setCookie("token", result.token);
         router.replace("/agent");
       } catch (error) {
